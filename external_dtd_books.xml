@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="style.xsl" ?>
+<!-- External DTD-->
+<!DOCTYPE books SYSTEM "books.dtd">
+	<books>
+		<book>
+			<title>Introduction to Algorithms</title>
+			<author>THOMAS H. CORMEN</author>
+			<genre>Textbook</genre>
+			<copyright>2019</copyright>
+			<edition>Third</edition>
+			<isbn-no>978-3-16-148410-0</isbn-no>
+			<publisher>The MIT Press</publisher>
+			<price>$100</price>
+		</book>
+		<book>
+			<title>Wings of Fire</title>
+			<author>A.P.J ABDUL KALAM</author>
+			<genre>Biography</genre>
+			<copyright>2000</copyright>
+			<edition>First</edition>
+			<isbn-no>978-3-16-148420-0</isbn-no>
+			<publisher>Universities Press</publisher>
+			<price>$150</price>
+		</book>
+		<book>
+			<title>The Martian</title>
+			<author>ANDY WEIR</author>
+			<genre>Science Fiction</genre>
+			<copyright>2011</copyright>
+			<edition>First</edition>
+			<isbn-no>978-3-16-148430-0</isbn-no>
+			<publisher>Crown Publishing</publisher>
+			<price>$200</price>
+		</book>
+		<book>
+			<title>PetSematary</title>
+			<author>STEPHEN KING</author>
+			<genre>Horror Fiction</genre>
+			<copyright>1984</copyright>
+			<edition>Third</edition>
+			<isbn-no>978-3-16-148440-0</isbn-no>
+			<publisher>Doubleday</publisher>
+			<price>$200</price>
+		</book>
+		<book>
+			<title>The Mountain</title>
+			<author>STEVEN KONKOLY</author>
+			<genre>Adventure</genre>
+			<copyright>2020</copyright>
+			<edition>Second</edition>
+			<isbn-no>978-3-16-148450-0</isbn-no>
+			<publisher>Wall Street Publisher</publisher>
+			<price>$250</price>
+		</book>
+	</books>
+	
